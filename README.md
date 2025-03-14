@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m an studen, currently learning about the secrets of C programming
+🌱 I’m an student, currently learning about the secrets of C programming
 😄 Pronouns: he / him
 <!--
 **JZVN/JZVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
